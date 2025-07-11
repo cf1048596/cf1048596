@@ -1,7 +1,6 @@
 Just a university student who likes messing with low-level code, embedded things, and the occasional reverse engineering rabbit hole.
 
-## Technologies & Tools
-
+Stuff I like
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,aws,linux,neovim,git" />
 </p>
