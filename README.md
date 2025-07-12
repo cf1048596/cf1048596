@@ -1,4 +1,4 @@
-## Just a university student who likes messing with low-level programming and embedded systems.
+## Just a university student who likes messing with low-level and embedded stuff.
 
 ## Stuff I like
 <p align="left">
