@@ -2,7 +2,7 @@
 
 ## Stuff I like
 <p align="left">
-  <img src="https://cdn.simpleicons.org/rust" width="40" alt="Rust" />
+  <img src="https://cdn.simpleicons.org/rust/99" width="40" alt="Rust" />
   <img src="https://cdn.simpleicons.org/c" width="40" alt="C" />
   <img src="https://cdn.simpleicons.org/cplusplus" width="40" alt="C++" />
   <img src="https://cdn.simpleicons.org/python" width="40" alt="Python" />
