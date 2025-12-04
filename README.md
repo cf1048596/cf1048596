@@ -17,5 +17,3 @@
   <img src="https://cdn.simpleicons.org/zsh" width="40" alt="zsh" />
   <img src="https://cdn.simpleicons.org/homebrew" width="40" alt="homebrew" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cf1048596&layout=compact&theme=dark)](https://github.com/cf1048596)
