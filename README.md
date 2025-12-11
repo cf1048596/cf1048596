@@ -18,5 +18,6 @@
   <img src="https://cdn.simpleicons.org/homebrew" width="40" alt="homebrew" />
 
 </p>
-
+<p align="center">
 ![steinsgate-thumbs-up](https://github.com/user-attachments/assets/30870a5c-a897-44c6-ad66-c5379d8dde19)
+</p>
