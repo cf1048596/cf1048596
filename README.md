@@ -1,5 +1,5 @@
 ## Just a university student who likes messing with low-level and embedded stuff.
-## Sayonara 2025
+## Welcome 2026!
 ## Stuff I like
 <p align="left">
   <img src="https://cdn.simpleicons.org/rust/099" width="40" alt="Rust" />
